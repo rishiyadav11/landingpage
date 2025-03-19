@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import  { useState } from 'react';
 import { Heart, Send, Twitter, Facebook, Instagram } from 'lucide-react';
 
 interface Message {
